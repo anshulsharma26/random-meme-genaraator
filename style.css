@@ -1,0 +1,22 @@
+.generate-meme{
+    text-align: center;
+}
+.generate-meme button{
+    border: none;
+    background: none;
+    font-size: 1.5em;
+    border-left: 4px solid black;
+    border-right: 4px solid black;
+    padding: 12px;
+    color: green;
+    cursor: pointer;
+}
+.generate-meme button:hover{
+    padding: 8px 36px;
+    border-left: 8px solid black;
+    border-right: 8px solid black;
+}
+.meme-image{
+    height: 70vh;
+    width: 60vw;
+}
